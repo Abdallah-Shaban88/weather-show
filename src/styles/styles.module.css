@@ -1,0 +1,25 @@
+.banner{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.418);
+    font-size: 2rem;
+}
+.banner img{
+    width: 150px;
+    height: 150px;
+}
+.dayContainer{
+    display: flex;
+    padding: 1rem;
+    overflow-x: scroll;
+}
+.hour{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
