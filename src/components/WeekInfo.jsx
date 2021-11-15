@@ -3,6 +3,8 @@ import axios from 'axios'
 
 import Day from './Day'
 
+import styles from '../styles/styles.module.css'
+
 const WeekInfo = () => {
     const[week,setWeek] = useState([])
     const getData = async () => {
@@ -14,7 +16,7 @@ const WeekInfo = () => {
         getData()
       },[])
     return (
-        <div>
+        <div className={styles.weekContainer}>
             {week.map(day => 
                 <Day 
                   icon={day.day.condition.icon}

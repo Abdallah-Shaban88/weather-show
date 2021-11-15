@@ -2,14 +2,16 @@ import React from 'react'
 
 import styles from '../styles/styles.module.css'
 
-const Hour = ({text, icon, temp_c, time}) => {
+
+const Hour = ({text, icon, temp_c, time, convertTime}) => {
+    
     return (
+      
         <div className={styles.hour}>
-            <span>{time}</span>
+            <span>{convertTime(time)}</span>
             <img src={icon} alt={text}/>
             <span>{text}</span>
             <span>{temp_c}</span>
-
         </div>
     )
 }
