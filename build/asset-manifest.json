@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weather-show/static/css/main.835c2b43.chunk.css",
+    "main.css": "/weather-show/static/css/main.0994e5c4.chunk.css",
     "main.js": "/weather-show/static/js/main.d70feed4.chunk.js",
     "main.js.map": "/weather-show/static/js/main.d70feed4.chunk.js.map",
     "runtime-main.js": "/weather-show/static/js/runtime-main.3e107ef8.js",
@@ -8,14 +8,14 @@
     "static/js/2.877c2802.chunk.js": "/weather-show/static/js/2.877c2802.chunk.js",
     "static/js/2.877c2802.chunk.js.map": "/weather-show/static/js/2.877c2802.chunk.js.map",
     "index.html": "/weather-show/index.html",
-    "static/css/main.835c2b43.chunk.css.map": "/weather-show/static/css/main.835c2b43.chunk.css.map",
+    "static/css/main.0994e5c4.chunk.css.map": "/weather-show/static/css/main.0994e5c4.chunk.css.map",
     "static/js/2.877c2802.chunk.js.LICENSE.txt": "/weather-show/static/js/2.877c2802.chunk.js.LICENSE.txt",
     "static/media/styles.module.css": "/weather-show/static/media/Summer-Sunset-Desktop-Background-Wallpaper.dafa4791.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3e107ef8.js",
     "static/js/2.877c2802.chunk.js",
-    "static/css/main.835c2b43.chunk.css",
+    "static/css/main.0994e5c4.chunk.css",
     "static/js/main.d70feed4.chunk.js"
   ]
 }
